@@ -18,8 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/vodafone/p839v55/proprietary/vendor/app/DsNoWidget/DsNoWidget.apk:system/vendor/app/DsNoWidget/DsNoWidget.apk \
     vendor/vodafone/p839v55/proprietary/vendor/app/ims/arm/ims.odex:system/vendor/app/ims/arm/ims.odex \
     vendor/vodafone/p839v55/proprietary/vendor/app/ims/ims.apk:system/vendor/app/ims/ims.apk \
-    vendor/vodafone/p839v55/proprietary/vendor/app/ims/lib/arm/libimsmedia_jni.so:system/vendor/app/ims/lib/arm/libimsmedia_jni.so \
-    vendor/vodafone/p839v55/proprietary/vendor/app/ims/lib/arm/libimscamera_jni.so:system/vendor/app/ims/lib/arm/libimscamera_jni.so \
     vendor/vodafone/p839v55/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/vodafone/p839v55/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
     vendor/vodafone/p839v55/proprietary/vendor/bin/sound_trigger_test:system/vendor/bin/sound_trigger_test \
