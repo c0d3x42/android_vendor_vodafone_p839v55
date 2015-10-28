@@ -24,3 +24,10 @@ $(shell mkdir -p $(TARGET_OUT_ETC)/firmware/wcd9306; \
 		$(TARGET_OUT_ETC)/firmware/wcd9306/wcd9306_anc.bin; \
 	ln -sf /data/misc/audio/mbhc.bin \
 		$(TARGET_OUT_ETC)/firmware/wcd9306/wcd9306_mbhc.bin)
+
+$(shell \
+	ln -sf /system/vendor/lib/libimscamera_jni.so \
+		/system/vendor/app/ims/lib/arm/libimscamera_jni.so
+	ln -sf /system/vendor/lib/libimsmedia_jni.so \
+		/system/vendor/app/ims/lib/arm/libimsmedia_jni.so)
+		
