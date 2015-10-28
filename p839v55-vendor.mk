@@ -27,7 +27,7 @@ $(shell mkdir -p $(TARGET_OUT_ETC)/firmware/wcd9306; \
 
 $(shell \
 	ln -sf /system/vendor/lib/libimscamera_jni.so \
-		/system/vendor/app/ims/lib/arm/libimscamera_jni.so
+		/system/vendor/app/ims/lib/arm/libimscamera_jni.so; \
 	ln -sf /system/vendor/lib/libimsmedia_jni.so \
 		/system/vendor/app/ims/lib/arm/libimsmedia_jni.so)
 		
