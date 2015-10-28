@@ -614,8 +614,8 @@ PRODUCT_COPY_FILES += \
     vendor/vodafone/p839v55/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/vodafone/p839v55/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/vodafone/p839v55/proprietary/etc/firmware/wcd9306:system/etc/firmware/wcd9306 \
-    vendor/vodafone/p839v55/proprietary/etc/firmware/wcd9306/wcd9306_mbhc.bin:system/etc/firmware/wcd9306/wcd9306_mbhc.bin \
-    vendor/vodafone/p839v55/proprietary/etc/firmware/wcd9306/wcd9306_anc.bin:system/etc/firmware/wcd9306/wcd9306_anc.bin \
+#    vendor/vodafone/p839v55/proprietary/etc/firmware/wcd9306/wcd9306_mbhc.bin:system/etc/firmware/wcd9306/wcd9306_mbhc.bin 
+#    vendor/vodafone/p839v55/proprietary/etc/firmware/wcd9306/wcd9306_anc.bin:system/etc/firmware/wcd9306/wcd9306_anc.bin 
     vendor/vodafone/p839v55/proprietary/etc/firmware/wlan:system/etc/firmware/wlan \
     vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima:system/etc/firmware/wlan/prima \
     vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
