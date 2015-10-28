@@ -25,7 +25,7 @@ $(shell mkdir -p $(TARGET_OUT_ETC)/firmware/wcd9306; \
 	ln -sf /data/misc/audio/mbhc.bin \
 		$(TARGET_OUT_ETC)/firmware/wcd9306/wcd9306_mbhc.bin)
 
-$(shell \
+$(shell mkdir -p $(TARGET_OUT)/system/vendor/app/ims/lib/arm; \
 	ln -sf /system/vendor/lib/libimscamera_jni.so \
 		/system/vendor/app/ims/lib/arm/libimscamera_jni.so; \
 	ln -sf /system/vendor/lib/libimsmedia_jni.so \
