@@ -563,7 +563,6 @@ PRODUCT_COPY_FILES += \
     vendor/vodafone/p839v55/proprietary/bin/qseecom_security_test:system/bin/qseecom_security_test \
     vendor/vodafone/p839v55/proprietary/bin/radish:system/bin/radish \
     vendor/vodafone/p839v55/proprietary/bin/rfs_access:system/bin/rfs_access \
-    vendor/vodafone/p839v55/proprietary/bin/rild:system/bin/rild \
     vendor/vodafone/p839v55/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/vodafone/p839v55/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/vodafone/p839v55/proprietary/bin/time_daemon:system/bin/time_daemon \
