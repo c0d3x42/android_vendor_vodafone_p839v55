@@ -630,7 +630,6 @@ PRODUCT_COPY_FILES += \
     vendor/vodafone/p839v55/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/vodafone/p839v55/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/vodafone/p839v55/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
-    vendor/vodafone/p839v55/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/nfc_nci.pn54x.default.so:system/lib/hw/nfc_nci.pn54x.default.so \
