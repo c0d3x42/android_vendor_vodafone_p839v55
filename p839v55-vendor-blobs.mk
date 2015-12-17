@@ -507,7 +507,6 @@ PRODUCT_COPY_FILES += \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libzte_nv.so:system/vendor/lib/libzte_nv.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/mediadrm:system/vendor/lib/mediadrm \
-    vendor/vodafone/p839v55/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/mmi_audio.so:system/vendor/lib/mmi_audio.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/mmi_camera.so:system/vendor/lib/mmi_camera.so \
